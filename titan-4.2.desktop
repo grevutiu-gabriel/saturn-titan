@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Icon=/usr/local/share/saturn-titan-4.2/titan.icon.png
+Exec=titan42
+Name=Titan 4.2.1 - fractal expander
+Categories=Graphics;Math;
+
+Name[en_GB]=Titan 4.2.1 - fractal expander

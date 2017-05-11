@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Icon=/usr/local/share/saturn-titan-4.2/saturn.icon.png
+Exec=saturn42
+Name=Saturn 4.2.1 - fractal explorer
+Categories=Graphics;Math;
+
+Name[en_GB]=Saturn 4.2.1 - fractal explorer
